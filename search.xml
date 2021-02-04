@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>树莓派</title>
+      <link href="2021/02/04/%E6%A0%91%E8%8E%93%E6%B4%BE/"/>
+      <url>2021/02/04/%E6%A0%91%E8%8E%93%E6%B4%BE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="好玩的树莓派🍓"><a href="#好玩的树莓派🍓" class="headerlink" title="好玩的树莓派🍓"></a><strong>好玩的树莓派🍓</strong></h1><h2 id="关于树莓派的介绍"><a href="#关于树莓派的介绍" class="headerlink" title="关于树莓派的介绍"></a><strong>关于树莓派的介绍</strong></h2><p>它是一款<strong>基于</strong><a href="https://baike.baidu.com/item/ARM">ARM</a>的微型电脑主板<strong>，以SD/MicroSD卡为内存硬盘，卡片主板周围有1/2/4个<a href="https://baike.baidu.com/item/USB%E6%8E%A5%E5%8F%A3/493294">USB接口</a>和一个10/100 以太网接口（A型没有网口），可连接键盘、鼠标和网线，同时拥有视频模拟信号的电视输出接口和HDMI高清视频输出接口，以上部件全部整合在一张仅比信用卡稍大的主板上，</strong>具备所有PC<strong>的基本功能</strong>只需接通电视机和键盘，就能执行如电子表格、文字处理、玩游戏、播放高清视频等诸多功能。 Raspberry Pi B款只提供电脑板，无内存、电源、键盘、机箱或连线。</p><h2 id="到手"><a href="#到手" class="headerlink" title="到手"></a><strong>到手</strong></h2><p><img src= "/img/loading.gif" data-lazy-src="D:\x\themes\butterfly\source\img\rasberry-pi.jpg" alt="img"></p><p>先上图，让后呢~~</p><p>动手安装了一下，样子酷酷的…准备是用来改成微型PC的，由于没有便携屏，所以有些步骤还不好操作。</p><p>先把系统装起来，一切都好说，这装机还是很快的，linux系统轻巧、快捷让我很是喜欢。</p><p><img src= "/img/loading.gif" data-lazy-src="D:\x\themes\butterfly\source\img\rpi-terminal.png"></p><p>等其他配件出来后，慢慢组装成一体机~~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Raspberry Pi </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Raspberry Pi </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>火</title>
       <link href="2021/02/03/poem1/"/>
       <url>2021/02/03/poem1/</url>
